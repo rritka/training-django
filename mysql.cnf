@@ -1,0 +1,6 @@
+# my.cnf
+[client]
+database = dg1db
+user = root
+password = pitbOOl12
+default-character-set = utf8
